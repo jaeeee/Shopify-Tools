@@ -11,4 +11,4 @@ This is a small project for myself so that I can learn Python from the ground up
 
 ## Features
 * Product look-up script
- <img src=https://raw.githubusercontent.com/jaeeee/Shopify-Tools/master/img/searchdemo.png" height="250" width="250">
+ <img src="https://raw.githubusercontent.com/jaeeee/Shopify-Tools/master/img/searchdemo.png" height="250" width="250">
