@@ -6,6 +6,9 @@ Welcome to Shopify Tools, an on-going collection of scripts that can tinker with
 # Script Demonstrations
 Please see the `../img` directory in this repository for information on script syntax.
 
+# Source Code
+All scripts and source code will be pushed inside the `release` directory.
+
 # Required Libraries
 * `Python 3.6` or higher
 * `requests`
