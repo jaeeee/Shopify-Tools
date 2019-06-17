@@ -8,7 +8,7 @@ This is a small project for myself so that I can learn Python from the ground up
 * `product_lookup.py` allows the user to search a website's product inventory information and retrieve product links for all matching records.
 
 # Script Demonstrations
-Please see the `../img` directory in this repository for information on script syntax.
+Please see the `img` directory in this repository for information on script syntax.
 
 # Source Code
 All scripts and source code will be pushed inside the `release` directory.
