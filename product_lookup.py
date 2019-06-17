@@ -12,7 +12,7 @@ def findproduct( link, product ):
         searchB = bro.lower()
         if (searchA.find(searchB) != -1):
             print(productName)
-            producturl = 'https://www.thefreshyard.com/products/' + product['handle']
+            producturl = link + "/products/" + product['handle']
             print(producturl)
 bruv = input("Enter website url: ")
 yes = input("Enter product name: ")
