@@ -11,4 +11,4 @@ This is a small project for myself so that I can learn Python from the ground up
 
 ## Features
 * Product look-up script
-![product lookup script demo](./img/searchdemo.png)
+![product lookup script demo](./img/searchdemo.png) = 250x250
