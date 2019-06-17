@@ -6,7 +6,7 @@ Welcome to Shopify Tools, tools that can tinker with the Shopify API so that ope
 Please see the `../img` directory in this repository for information on script syntax.
 
 # Required Libraries
-* Python 3.7
+* `Python 3.6` or higher
 * `requests`
 
 # Introduction
